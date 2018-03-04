@@ -1,4 +1,4 @@
-public class testSuper {
+public class TestSuper {
   public void g(){}
   private void g2(){}
   void g3(){}

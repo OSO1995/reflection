@@ -1,4 +1,4 @@
-public class test extends testSuper{
+public class Test extends TestSuper {
   @SomeAnnotation()
   public void f1(){}
   private void f2(){}
